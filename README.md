@@ -19,3 +19,8 @@ I enjoy investigating why something is happening, identifying opportunities for 
 
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/samanthadumas09) | [GitHub](https://github.com/sammiii09)
+
+### Currently learning
+
+Practicing Git workflows, including branches,
+commits, and pull requests.
