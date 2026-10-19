@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Samantha 👋
 
-<!--
-**sammiii09/sammiii09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analytics | SQL | Operations Analytics | Process Improvement**
 
-Here are some ideas to get you started:
+I'm a business analyst with seven years of experience at Wayfair, where I taught myself SQL and grew into roles spanning analytics, business intelligence, and business operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy investigating why something is happening, identifying opportunities for improvement, and translating complicated data into practical business decisions.
+
+### What I bring
+- **SQL & Data Analysis:** Investigating trends, validating assumptions, and answering business questions.
+- **Business Operations:** Identifying inefficiencies, improving processes, and connecting technical solutions to business needs.
+- **Stakeholder Communication:** Translating findings into clear, actionable recommendations.
+- **Industry Experience:** Corporate analytics, digital marketing, and hands-on veterinary medicine.
+
+### What I'm working on
+- Refreshing my SQL and analytics skills through practical projects.
+- Developing my GitHub portfolio with reproducible business analyses.
+- Exploring applications of analytics and technology in veterinary medicine and animal health.
+
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/samanthadumas09) | [GitHub](https://github.com/sammiii09)
